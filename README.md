@@ -2,4 +2,4 @@
 
 A simulation that demonstrates the use of resistor and Ohm's law using the Python language and the Pygame library
 
-Vá em dist -> Resistor.exe
+Go to dist -> Resistor.exe
